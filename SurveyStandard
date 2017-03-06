@@ -1,0 +1,60 @@
+.sg-next-button {
+	background-image: url("http://prdmedia-chargeitspot.krc.mn/media/default/Next125x52_v2.png");
+  	background-repeat: no-repeat;
+  	background-color: #ffffff;
+    width: 125px;
+    height: 52px;
+  	margin: 10px;
+}
+
+.sg-back-button {
+	background-image: url("http://prdmedia-chargeitspot.krc.mn/media/default/Back125x52_v2.png
+");
+  	background-repeat: no-repeat;
+  	background-color: #ffffff;
+    width: 125px;
+    height: 52px;
+  	margin: 10px;
+}
+.sg-submit-button {
+  	background-image: url("http://prdmedia-chargeitspot.krc.mn/media/default/Finish125x52_v2.png");
+    background-repeat: no-repeat;
+  	background-color: #ffffff;
+  	width: 125px;
+  	height: 52px;
+  	margin: 10px;
+}
+
+.sg-progress-bar-text {
+	background-color: #6cc24a;
+}
+.sg-progress-bar-inner {
+	background-color: #002b49;
+}
+
+/*.sg-replace-icons input[type=radio] + label:before,
+.sg-replace-icons input[type=checkbox] + label:before {
+    font-size: 40px;
+  	padding: 0em 10em 0em 0em;
+}
+
+.sg-type-checkbox ul.sg-list li {
+ padding: 1em 2em 1em 2em;
+}
+.sg-type-radio ul.sg-list li {
+  padding: 1em 2em 1em 2em;
+}*/
+
+.sg-input.sg-input-menu {
+ font-size: 50px;
+}
+.sg-progress-bar-background {
+ width:125px;
+}
+
+.sg-progress-bar-text {
+ width:75px; 
+}
+div {
+    cursor: crosshair;
+}
